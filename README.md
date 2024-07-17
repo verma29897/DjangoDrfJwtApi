@@ -1,0 +1,2 @@
+# DjangoDrfJwtApi
+Django Blog Application
