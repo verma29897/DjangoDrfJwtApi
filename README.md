@@ -14,7 +14,7 @@ This is a simple blog application built with Django and Django REST Framework, i
 ## Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/django-blog.git
+   git clone https://github.com/verma29897/DjangoDrfJwtApi.git
    cd django-blog
 
 Create and activate a virtual environment:
