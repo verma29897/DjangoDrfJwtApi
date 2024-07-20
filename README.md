@@ -19,6 +19,7 @@ This is a simple blog application built with Django and Django REST Framework, i
 
 Create and activate a virtual environment:
 pip install pipenv shell
+
 pipenv shell
 
 pip install -r requirements.txt
